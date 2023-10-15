@@ -6,7 +6,9 @@
 ## How To Install
 
 - Add This To Your QB Core > Shared > Items.lua	
-```["specialbadge"]                 = {["name"] = "specialbadge",                  ["label"] = "LAPD Badge",             ["weight"] = 1000,      ["type"] = "item",      ["image"] = "specialbadge.png",         ["unique"] = false,     ["useable"] = true,     ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "LAPD Police Badge"},```
+```
+["specialbadge"]                 = {["name"] = "specialbadge",                  ["label"] = "LAPD Badge",             ["weight"] = 1000,      ["type"] = "item",      ["image"] = "specialbadge.png",         ["unique"] = false,     ["useable"] = true,     ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "LAPD Police Badge"},
+```
 
 - Drag & Drop The M-lapdbadge To Your Resources Folder!
 - Add this image on qb-inventory > html > images (Rename the image to "specialbadge.png")
